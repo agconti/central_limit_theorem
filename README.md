@@ -1,4 +1,4 @@
 central_limit_theorem
 =====================
 
-A visualization of the central limit theorem in python with d3py.
+A visualization animation of the central limit theorem in python with matplotlib.
