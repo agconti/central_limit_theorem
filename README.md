@@ -5,4 +5,4 @@ central_limit_theorem
 
 This repository aims to replicate [this](http://blog.vctr.me/posts/central-limit-theorem.html) visualization by  Victor Powel in Python with Matplotlib instead of in JavaScript with dj3 to show that beautiful visualizations can also be made in Python.
 
-**You can view my visualization [here](https://raw.github.com/agconti/central_limit_theorem/master/Central%20Limit%20Theroem.ipynb).**
+**You can view my visualization [here](http://nbviewer.ipython.org/urls/raw.github.com/agconti/central_limit_theorem/master/Central%2520Limit%2520Theroem.ipynb).**
