@@ -1,7 +1,6 @@
 central_limit_theorem
 =====================
 
-![Alt png](C:\Users\Andrew\Documents\centrallimvic.png)
+![Alt](https://raw.github.com/agconti/central_limit_theorem/master/centrallimvic.png)
 
-Baised on [this](http://blog.vctr.me/posts/central-limit-theorem.html) visualization by  Vicotr Powell in javascript and dj3. To prove you can do anything in Python, this repo amins to replicate this visualization in python with matplotlib.
-
+This repository aims to replicate [this](http://blog.vctr.me/posts/central-limit-theorem.html) visualization by  Victor Powell.  This will be done in Python and Matplotlib instead of in JavaScript with dj3, as Mr. Powell did, to show that beautiful visualizations can also be made in Python.
